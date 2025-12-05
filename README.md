@@ -3,8 +3,6 @@ Here’s the **step-by-step dry run** for the code with
 `nums = [10, 10, 3, 7, 6]`.
 
 ---
----
-
 # ▶️ **Step 1: n = nums.length**
 
 `nums = [10, 10, 3, 7, 6]`
